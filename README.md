@@ -7,7 +7,7 @@ You can type in Russian and English, write numbers and punctuation marks.
 
 If some character can only be obtained by holding Shift, then the program simulates pressing Shift and pressing a button.
 
-> [!INFO]\
+> [!NOTE]\
 > This program was written to pass typing speed tests (yes, it's not fair, I know ;))
 
 > [!WARNING]\
